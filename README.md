@@ -31,4 +31,4 @@ const ryan = {
 </p>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> and to hear about your background, as well as your journey into what you're passionate about. If you'd like to say hi, <b>send me a message on LinkedIn</b> and I'll be happy to shout you a :coffee:! :) </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> and to hear about your background, as well as your journey into what you're passionate about. If you'd like to say hi, <b>send me a message on [LinkedIn](https://www.linkedin.com/in/rtan18)</b> and I'll be happy to shout you a :coffee:! :) </em>
