@@ -31,6 +31,7 @@ This project was built over 48 hours (1 May - 2 May) as part of the [Unite to Fi
 
 Tech Stack: ReactJs
 
+<details>
 <summary>More...</summary>
 
 ### Personal Website
@@ -46,3 +47,5 @@ This project was built over the weekend of 1 August - 2 August, as part of the C
 Currently working on this project, stay tuned! 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> and to hear about your background, as well as your journey into what you're passionate about. If you'd like to say hi, <b>send me a message on [LinkedIn](https://www.linkedin.com/in/rtan18)</b> and I'll be happy to shout you a :coffee:! :) </em>
+
+</details>
