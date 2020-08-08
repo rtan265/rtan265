@@ -31,6 +31,8 @@ This project was built over 48 hours (1 May - 2 May) as part of the [Unite to Fi
 
 Tech Stack: ReactJs
 
+<summary>More...</summary>
+
 ### Personal Website
 Built my [personal website](https://github.com/rtan265/rtan265.github.io) over a week during the Easter Break as a challenge to learn more about web development. Super happy to have created my website, but there's is still work to be done! Currently looking for a designer to help me design a better website so I can build a better looking personal website! 
 
