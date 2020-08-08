@@ -1,5 +1,5 @@
 ### Kia ora 👋 Hi there 👋 你好 👋 Selamat Datang
-Welcome to my :octocat: profile. I'm Ryan Tan, a **penultimate graduate student** at the [University of Auckland](https://www.auckland.ac.nz/en.html). Saw the light in 2017 and decided to switch careers into Computer Science. 
+Welcome to my :octocat: profile. I'm Ryan Tan, a **penultimate graduate student** at the [University of Auckland](https://www.auckland.ac.nz/en.html). Saw the light in 2018 and decided to switch careers into Computer Science. 
 
 
 ```javascript
