@@ -37,13 +37,18 @@ Tech Stack: ReactJs
 ### Personal Website
 Built my [personal website](https://github.com/rtan265/rtan265.github.io) over a week during the Easter Break as a challenge to learn more about web development. Super happy to have created my website, but there's is still work to be done! Currently looking for a designer to help me design a better website so I can build a better looking personal website! 
 
+Currently a work in progress! 
 
 ### Krayon Kafe
 [Krayon Kafe](https://github.com/rtan265/Krayon-Kafe) is an online web application that allows users to provide a location (e.g. Panmure, Ponsonby) that shows them the cafes around the area, as well as provide Google Map Markers that show them where the cafes are.
 
 This project was built over the weekend of 1 August - 2 August, as part of the Create Camp hosted by [Summer of Tech](https://summeroftech.co.nz/) and [ANZ](https://www.anz.co.nz/personal/). This application uses the ZenbuAPI for location data, as well as the GoogleMaps JavaScript API to show users the location of the cafes queried.
 
-### Social Media Application (WIP) 👷
+### Positive Vibes Only 
+[]() is an online web application that allows users to post supportive, wholesome messages to help with the effects of the second lockdown in Auckland. 
+
+
+### React Native Project 👷
 Currently working on this project, stay tuned! 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> and to hear about your background, as well as your journey into what you're passionate about. If you'd like to say hi, <b>send me a message on [LinkedIn](https://www.linkedin.com/in/rtan18)</b> and I'll be happy to shout you a :coffee:! :) </em>
