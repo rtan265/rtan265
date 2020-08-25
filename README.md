@@ -24,12 +24,8 @@ This project was built over the weekend of 17 July - 19 July as part of the 2020
 
 Tech Stack: MongoDB | Express | ReactJs | NodeJs
 
-### Learn From A Kiwi
-[LearnFromA.Kiwi](https://github.com/rtan265/Learn-From-A-Kiwi) is the first online platform in New Zealand which CONNECTS the kiwi community with skilled instructors, through a LIVE and fully interactive environment.
-
-This project was built over 48 hours (1 May - 2 May) as part of the [Unite to Fight COVID-19 Startup Weekend](https://covid.startupweekend.org/). This was my first project working with another developer to build a frontend application using ReactJs. 
-
-Tech Stack: ReactJs
+### Positive Vibes Only 
+[Positive Vibes](https://positive-vibes-auckland.netlify.app/) is an online web application that allows users to post supportive, wholesome messages to help with the effects of the second lockdown in Auckland. This web application calls a sentiment analysis program from Microsoft Cognitive Services to analyse the messages that users post to ensure that they are positive. 
 
 <details>
 <summary>More...</summary>
@@ -39,14 +35,17 @@ Built my [personal website](https://github.com/rtan265/rtan265.github.io) over a
 
 Currently a work in progress! 
 
+### Learn From A Kiwi
+[LearnFromA.Kiwi](https://github.com/rtan265/Learn-From-A-Kiwi) is the first online platform in New Zealand which CONNECTS the kiwi community with skilled instructors, through a LIVE and fully interactive environment.
+
+This project was built over 48 hours (1 May - 2 May) as part of the [Unite to Fight COVID-19 Startup Weekend](https://covid.startupweekend.org/). This was my first project working with another developer to build a frontend application using ReactJs. 
+
+Tech Stack: ReactJs
+
 ### Krayon Kafe
 [Krayon Kafe](https://github.com/rtan265/Krayon-Kafe) is an online web application that allows users to provide a location (e.g. Panmure, Ponsonby) that shows them the cafes around the area, as well as provide Google Map Markers that show them where the cafes are.
 
 This project was built over the weekend of 1 August - 2 August, as part of the Create Camp hosted by [Summer of Tech](https://summeroftech.co.nz/) and [ANZ](https://www.anz.co.nz/personal/). This application uses the ZenbuAPI for location data, as well as the GoogleMaps JavaScript API to show users the location of the cafes queried.
-
-### Positive Vibes Only 
-[]() is an online web application that allows users to post supportive, wholesome messages to help with the effects of the second lockdown in Auckland. 
-
 
 ### React Native Project 👷
 Currently working on this project, stay tuned! 
