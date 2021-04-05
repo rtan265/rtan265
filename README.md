@@ -17,6 +17,9 @@ const ryan = {
 </p>
 
 ## Recent Projects
+### SocialMediaBlocker
+A [Chrome extension]() (soon!) that blocks social media websites (think facebook, instagram, linkedin) during work hours (7am - 7pm) due to me being so fidgety and checking them every so often. Currently waiting on Google to review my extension application so I can offer it to other people to use. Also allows users to add their own goal links, so they can focus on completing their goals if they do open up said social media websites.
+
 ### UpSkill
 [UpSkill](https://github.com/rtan265/upskill) is a platform that offers live online lessons that are local with the added opportunity to network, aimed at those who have been made redundant as a result of quarantine and isolation. Our aim is to upskill, reskill and retool learners to help them re-enter the job market.
 
