@@ -19,7 +19,7 @@ const ryan = {
 ## Recent Projects 👷
 
 ### SocialMediaBlocker
-A [Chrome extension](https://github.com/rtan265/Inproductivity) (soon!) that blocks social media websites (think facebook, instagram, linkedin) during work hours (7am - 7pm) due to me being so fidgety and checking them every so often. Currently waiting on Google to review my extension application so I can offer it to other people to use. Also allows users to add their own goal links, so they can focus on completing their goals if they do open up said social media websites.
+A [Chrome extension](https://github.com/rtan265/Inproductivity) that blocks social media websites (think facebook, instagram, linkedin) during work hours (7am - 7pm) due to me being so fidgety and checking them every so often. Currently waiting on Google to review my extension application so I can offer it to other people to use. Also allows users to add their own goal links, so they can focus on completing their goals if they do open up said social media websites.
 
 ### Positive Vibes Only 
 [Positive Vibes](https://positive-vibes-auckland.netlify.app/) is an online web application that allows users to post supportive, wholesome messages to help with the effects of the second lockdown in Auckland. This web application calls a sentiment analysis program from Microsoft Cognitive Services to analyse the messages that users post to ensure that they are positive. 
