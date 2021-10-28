@@ -8,7 +8,7 @@ const ryan = {
     code: ["Python", "HTML", "CSS", "JavaScript", "Java", "C++", "C#", "TypeScript"], 
     tools: ["React", "Node", "Express", "GitHub", "Azure"],
     interests: ["Diversity & Inclusion", "Accessibility", "Formula 1", 🏈, 🏉, 🎾, 🏂, "Board Games"],
-    currentProject: "I am currently working on a project that has a frontend and backend deployed on Heroku and Netlify to improve my full stack development skills."
+    currentProject: "I am currently working a project, which is to rebuild my website from scratch."
 }
 ```
 
